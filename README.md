@@ -1,6 +1,9 @@
 # AI_FINAL_GROUP_PROJECT
 This project uses Graph Neural Network  (GNN) to predict whether the given SMILES for a drug are for paracetamol or not
 
+YOUTUBE LINK: https://youtu.be/zFnEzmfOALw?si=bre9jIeIitp-3ZKu
+
+
 Drug Classification with Graph Neural Networks
 Overview
 This project implements a Graph Neural Network (GNN) for classifying drug compounds based on their SMILES (Simplified Molecular Input Line Entry System) representations. The goal is to distinguish between a target drug (paracetamol) and other compounds.
@@ -63,5 +66,7 @@ Notes
 •	Adjust hyperparameters such as batch size and learning rate according to your needs.
 License
 This project is licensed under the MIT License. 
-Youtube Link: 
+
+Youtube Link: https://youtu.be/zFnEzmfOALw?si=bre9jIeIitp-3ZKu
+
 
