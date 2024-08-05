@@ -67,6 +67,7 @@ Notes
 License
 This project is licensed under the MIT License. 
 
-Youtube Link: https://youtu.be/zFnEzmfOALw?si=bre9jIeIitp-3ZKu
-
+Hosting the Application:
+Our application was deployed locally, to host the application use the following command:
+streamlit model.py to run the application
 
